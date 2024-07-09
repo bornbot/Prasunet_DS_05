@@ -1,6 +1,8 @@
 # Geo Data Project
 
-- [Introduction](#introduction)
+## Introduction
+This project focuses on analyzing UK traffic accident data to uncover patterns related to road conditions, weather, and time of day. By visualizing accident hotspots and contributing factors, the analysis aims to provide insights that can help improve road safety and reduce the frequency of accidents. The project leverages Python, pandas, and seaborn for data processing and visualization, offering a comprehensive view of the factors influencing traffic accidents.
+
 - [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
@@ -9,9 +11,6 @@
 - [Contribution](#contributing)
 - [License](#license)
 - [Acknowledgement](#acknowledgements)
-
-## Introduction
-This project focuses on analyzing UK traffic accident data to uncover patterns related to road conditions, weather, and time of day. By visualizing accident hotspots and contributing factors, the analysis aims to provide insights that can help improve road safety and reduce the frequency of accidents. The project leverages Python, pandas, and seaborn for data processing and visualization, offering a comprehensive view of the factors influencing traffic accidents.
 
 ## Overview
 This project visualizes geographical data related to UK accidents using HTML, JavaScript, and the Leaflet.js library. The goal is to create an interactive heat map displaying accident data points across a specific region, providing insights into the distribution and frequency of accidents.
